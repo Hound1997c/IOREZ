@@ -7,8 +7,10 @@ public class Dog {
    }
 
    void hungry() {
+	//cze
    }
 
    void sleeping() {
+	//siema
    }
 }
