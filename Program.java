@@ -10,5 +10,6 @@ public class Dog {
    }
 
    void sleeping() {
+	//siema
    }
 }
